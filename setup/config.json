@@ -1,0 +1,8 @@
+{
+  "prefix": "!",
+  "admin": [""],
+  "price": 0,
+  "payments": {
+    "truemoney": ""
+  }
+}
